@@ -3,3 +3,5 @@ take input from user
 add the value
 
 submit data to the database addple
+hello world 1
+take input
